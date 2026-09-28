@@ -1,0 +1,25 @@
+body {
+  background-color: #9ec4fa;
+  color: #345df1;
+  font-family: "Arial", sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+img {
+  width: 300px;
+  border-radius: 30px;
+}
+
+p {
+  font-size: 25px;
+  font-weight: bold;
+  color: #6169ee;
+}
